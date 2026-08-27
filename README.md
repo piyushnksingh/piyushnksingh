@@ -17,13 +17,20 @@ Backend Engineer • Python • Django • Distributed Systems
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python • C++ • SQL • Java
+**Languages:** Python • C/C++ • SQL • Java
 
-**Backend:** Django • Django REST Framework • GraphQL • REST APIs • Celery
+**Backend:** Django • FastAPI • HTTP • REST APIs • GraphQL • Celery • WebSockets
 
-**Databases:** PostgreSQL • MySQL • Redis
+**Distributed Systems:** Microservices • Kafka • RabbitMQ • Event-Driven Architecture • Async Processing • Scalable System Design
 
-**Infrastructure:** Docker • AWS • Kafka • Git • Linux
+**Databases:** PostgreSQL • MongoDB • DynamoDB • Redis • Query Optimization • Indexing • Caching
+
+**Cloud & Tools:** AWS • Docker • Kubernetes • Linux • CI/CD • Git • GitHub • Postman • Swagger/OpenAPI • pytest
+
+**Engineering:** API Design • SDLC • Testing • Code Reviews • Monitoring • Root Cause Analysis • Performance Optimization
+
+**Coding:** Solved 1.3K+ problems on [LeetCode](https://leetcode.com/u/piyushnksingh/) with 25+ badges and ranked 14th among 3,500+ peers on GeeksForGeeks.
+
 
 ---
 
